@@ -26,6 +26,13 @@ a:hover{color:blue;
 }
 a:active{color:green;
 }
-			
+.aboutus{text-align:relative;
+		font-size:35px;
+		background-color:white;
+		border:10px black;
+		float:left; width:50%;
+		}
+.clearfloat{clear:right;
+			clear:left;}		
 
 
